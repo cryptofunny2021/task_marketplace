@@ -1,12 +1,21 @@
-# task_marketplace
-genlayer-contracts
-AI-powered task marketplace with bidding and automatic assignment system.
+# Task Marketplace
 
-## System Connection
+A GenLayer smart contract for creating and managing user tasks.
 
-This contract is part of a 5-contract ecosystem:
+## Features
 
-- Reputation updates trigger token rewards
-- Token balance affects marketplace bidding
-- Disputes can reduce reputation
-- All actions are logged in interaction hub
+* Create tasks
+* Store task information
+* Retrieve user tasks
+
+## Files
+
+* contract.py
+
+## Network
+
+GenLayer Testnet
+
+## Author
+
+cryptofunny2021
